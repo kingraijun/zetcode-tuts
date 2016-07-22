@@ -1,2 +1,2 @@
 # zetcode-tuts
-Tutorials from https://www.zetcode.com
+Tutorials from http://www.zetcode.com
