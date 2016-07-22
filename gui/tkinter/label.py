@@ -30,7 +30,7 @@ class Example(Frame):
       
         self.parent.title("Label")
 
-        self.img = Image.open("tatras.jpg")
+        self.img = Image.open("images/rotunda.jpg")
         tatras = ImageTk.PhotoImage(self.img)
         label = Label(self, image=tatras)
         
